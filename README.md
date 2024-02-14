@@ -1,4 +1,4 @@
-## <u>ABOUT</u>
+## <ins>ABOUT</ins>
 # PROJECT TITLE
 README
 # DESCRIPTION
